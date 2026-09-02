@@ -15,6 +15,36 @@ RealEstateCRM is a multi-tenant SaaS platform where multiple real estate compani
 
 The system is designed around company-level data isolation, role-based access control, employee management, property management, customer management, sales operations, and subscription-based SaaS functionality.
 
+---
+
+# 🖼️ Project Overview
+
+![RealEstateCRM Project Overview](screenshots/project-overview.png)
+
+---
+
+# 🔗 Live API / Swagger
+
+The RealEstateCRM backend API is deployed and documented using Swagger / OpenAPI.
+
+👉 [Explore the Live Swagger API]([https://brokerapp.runasp.net/swagger](http://brokerapp.runasp.net/swagger/index.html))
+
+The API includes endpoints for:
+
+- Authentication
+- Employees
+- Properties
+- Customers
+- Deals
+- Contracts
+- Installments
+- Appointments
+- Notifications
+- Company Settings
+- Subscriptions
+- Activity Logs
+
+
 ### Main Goals
 
 - Provide a centralized CRM for real estate companies.
@@ -274,8 +304,23 @@ The following interface represents the proposed UI/UX for the complete RealEstat
 
 > UI/UX concept for the complete RealEstateCRM product. The current public repository focuses on the backend architecture and API.
 
-
 ---
+
+# 🏗️ Architecture
+
+The backend follows Clean Architecture principles with a clear separation of responsibilities between the API, Application, Domain, Infrastructure, and Shared layers.
+
+### Architecture Layers
+
+- **API** — Controllers, DTOs, authentication, and HTTP endpoints
+- **Application** — Application logic, CQRS, commands, queries, and validation
+- **Domain** — Core entities and business rules
+- **Infrastructure** — Entity Framework Core, SQL Server, repositories, and external services
+- **Shared** — Shared DTOs, enums, constants, extensions, and helpers
+
+The system also implements company-level multi-tenancy to isolate data between different organizations.
+---
+
 
 # 🎯 Project Highlights
 
