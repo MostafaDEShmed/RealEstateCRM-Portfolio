@@ -27,7 +27,7 @@ The system is designed around company-level data isolation, role-based access co
 
 The RealEstateCRM backend API is deployed and documented using Swagger / OpenAPI.
 
-👉 [Explore the Live Swagger API]([https://brokerapp.runasp.net/swagger](http://brokerapp.runasp.net/swagger/index.html))
+👉 [Explore the Live Swagger API](https://brokerapp.runasp.net/swagger/index.html)
 
 The API includes endpoints for:
 
