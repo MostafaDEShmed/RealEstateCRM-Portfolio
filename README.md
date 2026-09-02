@@ -286,7 +286,7 @@ The backend API is documented and testable through Swagger / OpenAPI.
 
 ### 🔐 API & Authentication
 
-![RealEstateCRM API](screenshots/api-overview.png)
+![RealEstateCRM API](screenshots/properties-api.png)
 
 ### 👥 Employee Management
 
@@ -294,7 +294,7 @@ The backend API is documented and testable through Swagger / OpenAPI.
 
 ### 🏠 Property & CRM Management
 
-![Property Management API](screenshots/properties-api.png)
+![Property Management API](screenshots/api-overview.png)
 
 ## 🎨 Product UI/UX Preview
 
