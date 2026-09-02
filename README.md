@@ -250,9 +250,21 @@ RealEstateCRM
 
 ---
 
-# 📸 Screenshots
+# 📸 API Preview
 
-Screenshots of the application will be added here.
+The backend API is documented and testable through Swagger / OpenAPI.
+
+### 🔐 API & Authentication
+
+![RealEstateCRM API](screenshots/api-overview.png)
+
+### 👥 Employee Management
+
+![Employee Invitation API](screenshots/employees-api.png)
+
+### 🏠 Property & CRM Management
+
+![Property Management API](screenshots/properties-api.png)
 
 ---
 
