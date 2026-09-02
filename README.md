@@ -348,8 +348,8 @@ This public repository is intended as a portfolio and project overview.
 
 # 👨‍💻 Developer
 
-**Mostafa DEShmed**
+**Mostafa Ahmed**
 
-Full-Stack Developer
+Data Scientist | Backend Developer
 
-**Technologies:** .NET • Flutter • SQL Server • REST APIs • Software Architecture
+**Technologies:** .NET  • SQL Server • REST APIs • Software Architecture • Machine Learning 
