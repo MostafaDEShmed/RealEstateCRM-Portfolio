@@ -265,6 +265,7 @@ The backend API is documented and testable through Swagger / OpenAPI.
 ### 🏠 Property & CRM Management
 
 ![Property Management API](screenshots/properties-api.png)
+
 ## 🎨 Product UI/UX Preview
 
 The following interface represents the planned product experience for the complete RealEstateCRM application, including dashboard, properties, customers, brokers, reports, and role-based workflows.
